@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-pristine",
-  "version": "1.0.0",
+  "version": "0.0.0-dev",
   "description": "Pristine for vue-cli",
   "repository": {
     "url": "octanolabs/vue-cli-plugin-pristine",
