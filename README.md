@@ -1,4 +1,5 @@
 # vue-cli-plugin-pristine
+[![NPM version](https://img.shields.io/npm/v/vue-cli-plugin-pristine.svg?style=flat)](https://npmjs.com/package/vue-cli-plugin-pristine) [![NPM downloads](https://img.shields.io/npm/dm/vue-cli-plugin-pristine.svg?style=flat)](https://npmjs.com/package/vue-cli-plugin-pristine) [![CircleCI](https://circleci.com/gh/octanolabs/vue-cli-plugin-pristine/tree/master.svg?style=shield)](https://circleci.com/gh/octanolabs/vue-cli-plugin-pristine/tree/master)
 
 Pristine project starter for vue-cli.
 
