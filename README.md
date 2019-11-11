@@ -3,7 +3,7 @@
 
 Pristine project starter for vue-cli.
 
-Inspired by Pristine Typescript React [Pristine Typescript React](https://github.com/etclabscore/pristine-typescript-react).
+Inspired by [Pristine Typescript React](https://github.com/etclabscore/pristine-typescript-react).
 
 ## How to use Pristine in your vue-cli project
 
